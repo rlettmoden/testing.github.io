@@ -68,18 +68,19 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Semantic Segmentation on the LandSlide2022 dataset
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text 1
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text 1
         quote: >
-          Short overview of the project (optional)
+          Binary segmentation for landslides based on remote sensing data.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Work for the university class "Deep Learning in Remote Sensing". Contains an EDA, experiment phase and report with presentation.
+          
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Semantic Segmentation on the FloodNet dataset
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text 2
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # link_text: Link Text 2
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
@@ -87,18 +88,29 @@ content:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        quote: > # Short overview of the project (optional)
+          Tree segmentation based on the FloodNet dataset.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          University project work for the winter semester 2023. The project is structured and weighted similar to a bachelor thesis. 
+          It contains an EDA, literature research, conducting experiments and concludes with a report and presentation.
+          Work in progress with the EDA completed.  
   - title: Experience
     layout: list
     content:
       - layout: right
         title: Brunel Car Synergies
+        sub_title: Internship
+        caption: Juli - September 2018
+        # link: Juli - September 2018
+        quote: > 
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+      - layout: right
+        title: Brunel Car Synergies
         sub_title: Working Student
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        caption: March & September 2019 
+        # link: Link to company (optional)
         quote: > 
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -107,7 +119,7 @@ content:
         title: Institute of Space Systems
         sub_title: Research Assistant
         caption: October 2019 - September 2021 
-        link: Link to company (optional)
+        # link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -116,7 +128,7 @@ content:
         title: Bosch
         sub_title: Internship & Bachelor Thesis
         caption: November 2021 - April 2022
-        link: Link to company (optional)
+        # link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
