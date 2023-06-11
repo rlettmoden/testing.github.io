@@ -67,18 +67,18 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Semantic Segmentation on the LandSlide2022 dataset
+        title: SemSeg Landslide4Sense
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text 1
         quote: >
           Binary segmentation for landslides based on remote sensing data.
         description: | # this will include new lines to allow paragraphs
           Work for the university class "Deep Learning in Remote Sensing". Contains an EDA, experiment phase and report with presentation.
-          
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Semantic Segmentation on the FloodNet dataset
+        title: SemSeg FloodNet
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # link_text: Link Text 2
         # additional_links:
